@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi there, I'm Fajil ali mohammed!
 
-<!--
-**Fajil-ali-mohammed/Fajil-ali-mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an enthusiastic developer exploring the world of programming and always eager to learn more. Here’s a bit about my current tech stack:
 
-Here are some ideas to get you started:
+## 🛠️ Technologies I Know
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Java** – Intermediate proficiency  
+- **Python** – Beginner level  
+- **C** – Comfortable with core programming concepts  
+- **HTML** – Basic understanding for web development  
+
+## 🌱 Currently Learning
+
+I'm working on improving my skills in Python and web development. Always open to collaborating on interesting projects or contributing to open-source!
+
+## 📫 Get in Touch
+
+- 📧 Email: fajilalimohammed2@gmail.com  
+- 💼 LinkedIn:
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect. 🚀

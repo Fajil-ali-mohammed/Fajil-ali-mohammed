@@ -16,5 +16,5 @@ I'm working on improving my skills in Python and web development. Always open to
 ## 📫 Get in Touch
 
 - 📧 Email: fajilalimohammed2@gmail.com  
-- 💼 LinkedIn:
+- 💼 LinkedIn:https://www.linkedin.com/in/me/
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to connect. 🚀
